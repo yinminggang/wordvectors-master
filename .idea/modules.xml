@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyCluster/.idea/MyCluster.iml" filepath="$PROJECT_DIR$/../MyCluster/.idea/MyCluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyDoc2Vec/.idea/MyDoc2Vec.iml" filepath="$PROJECT_DIR$/../MyDoc2Vec/.idea/MyDoc2Vec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyword2vec-master/.idea/pyword2vec-master.iml" filepath="$PROJECT_DIR$/../pyword2vec-master/.idea/pyword2vec-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../word2vec-master/.idea/word2vec-master.iml" filepath="$PROJECT_DIR$/../word2vec-master/.idea/word2vec-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/wordvectors-master.iml" filepath="$PROJECT_DIR$/.idea/wordvectors-master.iml" />
     </modules>
   </component>
